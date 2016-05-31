@@ -16,6 +16,7 @@ Summer Internship Project at LaRA, HEIG-VD.
   * [This](https://zeroc.com/distributions/ice) may be helpful.
   * Have a look at [XML-RPC](http://xmlrpc.scripting.com/) as well.
   * Look at [this](http://ros-users.122217.n3.nabble.com/communicating-with-windows-td895215.html) forum discussion.
+  * [Hello World from Windows](http://wiki.ros.org/rosserial_windows/Tutorials/Hello%20World).
 - Make differential drive controller on the RH-Y robot work, using the ROS node, i.e rhy_basic to send commands.
 - Study documentation for Piaget (C++, C#)
 - Get answers to above questions
