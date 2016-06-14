@@ -22,5 +22,6 @@ Summer Internship Project at LaRA, HEIG-VD.
 - Get answers to above questions
 
 ### Work in Progress
-- Writing a Server and Client implementation using Ice middleware for C# and C++. Links [#1](https://doc.zeroc.com/display/Ice36/Writing+an+Ice+Application+with+C-Sharp), [#2](https://doc.zeroc.com/display/Ice36/Writing+a+Slice+Definition), [#3](https://doc.zeroc.com/display/Ice36/The+Slice+Language), [#4](https://doc.zeroc.com/pages/viewpage.action?pageId=14030991), [#5](https://doc.zeroc.com/display/Ice36/Server-Side+Slice-to-C-Sharp+Mapping), [#6](https://doc.zeroc.com/display/Ice36/Client-Side+Slice-to-C-Sharp+Mapping), [#7](https://doc.zeroc.com/display/Ice36/Hello+World+Application)
+- ~~Writing a Server and Client implementation using Ice middleware for C# and C++. Links [#1](https://doc.zeroc.com/display/Ice36/Writing+an+Ice+Application+with+C-Sharp), [#2](https://doc.zeroc.com/display/Ice36/Writing+a+Slice+Definition), [#3](https://doc.zeroc.com/display/Ice36/The+Slice+Language), [#4](https://doc.zeroc.com/pages/viewpage.action?pageId=14030991), [#5](https://doc.zeroc.com/display/Ice36/Server-Side+Slice-to-C-Sharp+Mapping), [#6](https://doc.zeroc.com/display/Ice36/Client-Side+Slice-to-C-Sharp+Mapping), [#7](https://doc.zeroc.com/display/Ice36/Hello+World+Application)~~
+- (*Update on 2.06.16 - No need for ICE middleware, it just makes it more complex. All that's needed is to communicate over TCP/IP using sockets.* )
 - Folder called AJ in Ubuntu Virtual Box on C38PC09 at home directory. Some ice definitions with generated C# files.
