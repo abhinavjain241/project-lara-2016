@@ -20,3 +20,7 @@ Summer Internship Project at LaRA, HEIG-VD.
 - Make differential drive controller on the RH-Y robot work, using the ROS node, i.e rhy_basic to send commands.
 - Study documentation for Piaget (C++, C#)
 - Get answers to above questions
+
+### Work in Progress
+- Writing a Server and Client implementation using Ice middleware for C# and C++. Links [#1](https://doc.zeroc.com/display/Ice36/Writing+an+Ice+Application+with+C-Sharp), [#2](https://doc.zeroc.com/display/Ice36/Writing+a+Slice+Definition), [#3](https://doc.zeroc.com/display/Ice36/The+Slice+Language), [#4](https://doc.zeroc.com/pages/viewpage.action?pageId=14030991), [#5](https://doc.zeroc.com/display/Ice36/Server-Side+Slice-to-C-Sharp+Mapping), [#6](https://doc.zeroc.com/display/Ice36/Client-Side+Slice-to-C-Sharp+Mapping), [#7](https://doc.zeroc.com/display/Ice36/Hello+World+Application)
+- Folder called AJ in Ubuntu Virtual Box on C38PC09 at home directory. Some ice definitions with generated C# files.
