@@ -5,7 +5,7 @@ Summer Internship Project at LaRA, HEIG-VD.
 - Model of RH-Y robot in Gazebo (v0.0.1 done :heavy_check_mark:) ![Progress](http://progressed.io/bar/33?title=progress)
 - ROS Node and Package for the same in Gazebo ![Progress](http://progressed.io/bar/0?title=untouched)
 - A world file for Lab #C38 in Gazebo (v0.0.1 done :heavy_check_mark:) ![Progress](http://progressed.io/bar/33?title=progress)
-- Communication between C++ and C# chat application ![Progress](http://progressed.io/bar/10?title=progress)
+- Communication between C++ and C# chat application ![Progress](http://progressed.io/bar/70?title=progress)
 - Piaget as a ROS node, and ROS as a driver provider for Piaget
 
 ### Questions:
