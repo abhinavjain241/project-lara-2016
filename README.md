@@ -1,6 +1,10 @@
 # Summer Project @ LaRA, 2016
 Summer Internship Project at LaRA, HEIG-VD.
 
+### Link to external repositories (containing work):
+- [RH-Y Robot Model (on branch master) and Simulator Package for ROS (on branch package_dev)](https://github.com/abhinavjain241/RH-Y)
+- [ROS Package for TCP/IP Communication - Chat Application](https://github.com/abhinavjain241/win_comm_chat)
+
 ### Things in my ambit:
 - Model of RH-Y robot in Gazebo (v0.0.1 done :heavy_check_mark:) ![Progress](http://progressed.io/bar/33?title=progress)
 - ROS Node and Package for the same in Gazebo ![Progress](http://progressed.io/bar/0?title=untouched)
@@ -9,7 +13,8 @@ Summer Internship Project at LaRA, HEIG-VD.
 - Piaget as a ROS node, and ROS as a driver provider for Piaget
 
 ### Questions:
-- Why do we need a chat application at all? What is it's use in connecting different robots to Piaget?
+- Why do we need a chat application at all? What is it's use in connecting different robots to Piaeeksf
+get?
 
 ### Todo:
 - Figure out a middleware for communication between C# and Linux.
