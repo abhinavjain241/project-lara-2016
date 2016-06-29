@@ -7,14 +7,16 @@ Summer Internship Project at LaRA, HEIG-VD.
 
 ### Things in my ambit:
 - Model of RH-Y robot in Gazebo (v0.0.1 done :heavy_check_mark:) ![Progress](http://progressed.io/bar/33?title=progress)
-- ROS Node and Package for the same in Gazebo ![Progress](http://progressed.io/bar/0?title=untouched)
+- ROS Node and Package for the same in Gazebo ![Progress](http://progressed.io/bar/10?title=started)
 - A world file for Lab #C38 in Gazebo (v0.0.1 done :heavy_check_mark:) ![Progress](http://progressed.io/bar/33?title=progress)
-- Communication between C++ and C# chat application ![Progress](http://progressed.io/bar/10?title=progress)
+- Communication between C++ and C# chat application ![Progress](http://progressed.io/bar/70?title=progress)
 - Piaget as a ROS node, and ROS as a driver provider for Piaget
+- ROS package for chat application. ![Progress](http://progressed.io/bar/80?title=finishing)
 
 ### Questions:
-- Why do we need a chat application at all? What is it's use in connecting different robots to Piaeeksf
-get?
+- Why do we need a chat application at all? What is it's use in connecting different robots to Piaget?
+- ~~Why do we need a chat application at all? What is it's use in connecting different robots to Piaget?~~ :heavy_check_mark:
+ - ^Common platform to send messages over TCP/IP. That's what the chat app provides us.
 
 ### Todo:
 - Figure out a middleware for communication between C# and Linux.
