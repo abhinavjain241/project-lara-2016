@@ -47,6 +47,10 @@ Make sure to specify the IP Address of the server. Communication will happen on 
 
 If not, then the server might not be running on the other computer, or the IP address might have been input incorrectly.
 
+13. If you choose option 1, you can type in messages from the keyboard and press Enter (or RETURN) to send them manually.
+
+14. If you want another executable or node to publish messages to the server, we can make use of the second option, i.e subscribe to client_messages and send whatever's available.
+
 
 
 Now for running the simulator on Gazebo,
@@ -70,3 +74,8 @@ Now for running the simulator on Gazebo,
 
 7. To run the node which recieves messages on /server_messages, type the following command:
 	$ rosrun rhy_basic rhyTest
+
+
+======================================================================================================
+THIS README IS ALSO AVAILABLE ON UBUNTU on Machine C38PC09 and also online on my GitHub profile, in the repository project-lara-2016. My GitHub repository is at https://www.github.com/abhinavjain241/
+======================================================================================================
